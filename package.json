@@ -1,0 +1,14 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "projeto para ensinar nodejs mvc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "roniere",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
